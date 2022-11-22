@@ -1,0 +1,24 @@
+[0;32m			Relatório de Vendas
+
+A quantidade de litros vendida foi:
+60 litros.
+
+O valor total arrecadado com as vendas foi:
+300.000 reais.
+
+A quantidade de carros atendidos foi:
+2 carros.
+[0;32m
+
+Modelo do 1° carro: gol;
+Ano: 1992;
+Cor: verde;
+Cliente: vitor[0;32m
+
+Modelo do 2° carro: carro2;
+Ano: 0;
+Cor: no2;
+Cliente: cliente2
+
+Quantidade de combustível restante no tanque:
+140 litros.
